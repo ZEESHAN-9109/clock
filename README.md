@@ -2,9 +2,11 @@
 
 A simple and elegant **Analog Clock Animation** built using **HTML** and **CSS**. This project demonstrates how CSS animations can be used to rotate the hour, minute, and second hands to simulate a fast-forward analog clock.
 
-## 📸 Preview
+## For Demo
 
-![Clock Preview](bg.png)
+ https://zeeshan-9109.github.io/clock/
+
+----
 
 ## ✨ Features
 
@@ -77,6 +79,18 @@ Current animation timings:
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are always welcome.
+
+----
+
+# 👨‍💻 Author
+
+Zeeshan Ahmed
+
+GitHub: https://github.com/ZEESHAN-9109
+
+LinkedIn: https://www.linkedin.com/in/zeeshan-ahmed-b4b1122ba/
+
+----
 
 ## ⭐ Support
 
